@@ -1,5 +1,5 @@
 Video Demonstration: 
-https://docs.google.com/document/d/1jO3pkzejBeTx0Z_MeEB3yNgksVHl-BKD-n5GqI-8Zi4/edit?tab=t.0
+
 
 # ThreadSyncVis
 
