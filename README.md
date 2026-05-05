@@ -7,6 +7,8 @@ https://docs.google.com/document/d/1jO3pkzejBeTx0Z_MeEB3yNgksVHl-BKD-n5GqI-8Zi4/
 Built with React and Vite, this project is packaged as a standalone desktop application using
 Electron and Electron Forge.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0711ff23-8c1d-40b9-9b2f-69ab8bcf232a" />
+
 ## 🚀 Features
 
 ```
